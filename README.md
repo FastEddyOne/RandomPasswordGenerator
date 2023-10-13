@@ -28,7 +28,7 @@ This Python script allows you to generate random passwords, passphrases, and pro
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/FastEddyOne/RandomPasswordGenerator.git
    cd RandomPasswordGenerator
    run python RandomPasswordGenerator
    ```
